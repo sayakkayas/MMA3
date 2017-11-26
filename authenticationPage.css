@@ -1,0 +1,218 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  background-image: url("muscle.jpg");
+}
+.clearfix{
+  clear:both;
+}
+
+input[type=submit]
+{
+  margin-top:15px;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:200px;
+  min-height:30px;
+  font-size:30px;
+  letter-spacing:3px;
+  line-height:30px;
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px;
+  transition-duration:0.5s;
+  transition-timing-function:ease;
+  transition-delay:initial;
+  transition-property:all;
+  cursor:pointer;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:center;
+  float:none;
+  margin:43px 0px 0px 451px;
+  font-weight:600;
+  background-color:#ff1919;
+  color:#ffffff;
+  border:3px solid #ffffff;
+
+
+  
+}
+input[type=text]
+{ padding:5px 10px 10px 5px;
+  color:#000000;
+  font-size:28px;
+  font-family:Helvetica, serif;
+  font-weight:100;
+  background-color:#ffffff;
+ text-align:center;
+
+
+}
+.header-banner{
+  padding-top:35px;
+  padding-bottom:100px;
+  color:rgb(255, 255, 255);
+  font-family:Helvetica, serif;
+  font-weight:100;
+  background-attachment:fixed, scroll;
+  background-position-x:left, center;
+  background-position-y:top, center;
+  background-repeat-x:no-repeat, no-repeat;
+  background-repeat-y:repeat, no-repeat;
+  background-size:contain, cover;
+  padding:35px 0px 146px 0px;
+}
+.container-width{
+  width:856px;
+  max-width:1150px;
+  margin-top:0px;
+  margin-right:auto;
+  margin-bottom:0px;
+  margin-left:auto;
+  margin:0px auto 0px 351px;
+  padding:22px 114px 0px 11px;
+  height:329px;
+  background-color:#000000;
+  border:2px dashed rgb(255, 255, 255);
+}
+.logo-container{
+  float:left;
+  width:50%;
+}
+.logo{
+  background-color:rgb(255, 255, 255);
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px;
+  width:830px;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  min-height:30px;
+  text-align:center;
+  line-height:30px;
+  font-size:23px;
+  font-weight:600;
+  color:#000000;
+  border-radius:0px;
+}
+.navbar{
+  float:right;
+  width:50%;
+}
+.lead-btn{
+  margin-top:15px;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:296px;
+  min-height:30px;
+  font-size:20px;
+  text-align:center;
+  letter-spacing:1px;
+  line-height:30px;
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px;
+  transition-duration:0.5s;
+  transition-timing-function:ease;
+  transition-delay:initial;
+  transition-property:all;
+  cursor:pointer;
+  margin:15px 0px 0px 269px;
+  color:#ffffff;
+  font-family:Helvetica, serif;
+  font-weight:700;
+  background-color:#ff0000;
+  border:3px solid rgb(247, 245, 247);
+}
+.lead-btn:hover{
+  background-color:rgb(255, 255, 255);
+  color:rgb(76, 17, 78);
+}
+.lead-btn:active{
+  background-color:rgb(77, 17, 79);
+  color:rgb(255, 255, 255);
+}
+#wrapper{
+  margin:0;
+}
+#c1009{
+  padding:54px 69px 25px 113px;
+  text-align:center;
+  color:#ffffff;
+  background-color:#000000;
+  font-size:62px;
+  font-family:Helvetica, serif;
+  font-weight:600;
+  margin:-20px 0px 0px 0px;
+  width:auto;
+}
+#c5200{
+  padding:10px;
+  text-align:center;
+  color:#000000;
+  background-color:#ffffff;
+  font-size:16px;
+  width:830px;
+}
+#c5248{
+  padding:24px 10px 27px 10px;
+  text-align:center;
+  color:#000000;
+  background-color:#ffffff;
+  font-weight:700;
+  letter-spacing:0px;
+  font-size:18px;
+  width:830px;
+}
+#c5408{
+  padding:34px 10px 10px 10px;
+  background-color:#ffffff;
+  width:830px;
+}
+#c6627{
+  color:black;
+  margin:35px 0px 0px 352px;
+  width:280px;
+  border:3px dashed white;
+  height:250px;
+}
+#c6983{
+  color:black;
+  width:280px;
+  margin:0px 0px 0px 10px;
+  height:250px;
+  border:3px dashed white;
+}
+#c7555{
+  padding:21px 10px 10px 10px;
+  background-color:#000000;
+}
+#c7886{
+  color:black;
+  width:280px;
+  height:250px;
+  margin:0px 0px 0px 10px;
+  border:3px dashed white;
+}
+#c8051{
+  padding:9px 10px 4px 10px;
+  margin:348px 0px -5px -14px;
+  text-align:center;
+  font-size:16px;
+  font-family:Arial Black, Gadget, sans-serif;
+  color:#000000;
+  width:874px;
+  background-color:#ffffff;
+  border:3px solid black;
+}
